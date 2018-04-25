@@ -2,7 +2,7 @@
 www.berkeyfilters.com/s/z_iWmOg7mEOilqdtANJpoA/lern.jpg,,6,29,2,404
 www.berkeyfilters.com/berkey-water-filters/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/6/1/61bacrc_83l._sl1001_.jpg,,9,31,5,404
 
---Redirected Media Links--
+--301 Redirected Media Links--
 
 --Media Links I Haven't Redirected yet--
 www.berkeyfilters.com/Assets/reader/pf2fluoride.pdf,,17,28,1,404
@@ -33,25 +33,26 @@ www.berkeyfilters.com/berkey-water-filters/media/catalog/product/cache/1/image/9
 www.berkeyfilters.com/berkey-water-filters/media/catalog/product/b/x/bx_ss_4-pack_cups.jpg,,2,28,1,404
 
 --301 Redirected Page Links--
-www.berkeyfilters.com/berkeytech.htm,,71,35,18,404
-www.berkeyfilters.com/berkeyfaqs.htm,,41,32,7,404
-www.berkeyfilters.com/filtervspurifier.htm,,101,31,5,404
-www.berkeyfilters.com/berkeysport.htm,,38,32,6,404
-www.berkeyfilters.com/index.html,,19,34,12,404
-www.berkeyfilters.com/watertest.htm,,18,31,5,404
-www.berkeyfilters.com/berkeypf2.htm,,17,33,9,404
-www.berkeyfilters.com/berkeymodels.htm,,15,34,11,404
-www.berkeyfilters.com/black-berkey.htm,,10,31,4,404
-www.berkeyfilters.com/berkey-learning-center.htm,,9,31,5,404
-www.berkeyfilters.com/waterfiltercomparison.htm,,8,31,4,404
-www.berkeyfilters.com/berkey-water-filters/replacement-filters/black-berkey/,,7,30,3,404
-www.berkeyfilters.com/berkey-answers/berkey-water-filter-faq/berkey-water-filter-scam/,,5,31,4,404
-www.berkeyfilters.com/berkey-water-filters/specialty-filters/fluoride/,,4,29,2,404
-www.berkeyfilters.com/berkey-water-filters/black-berkey-replacement-filters-sale.html,,3,28,1,404
+www.berkeyfilters.com/berkeytech.htm 71,35,18,404
+www.berkeyfilters.com/berkeyfaqs.htm  41,32,7,404
+www.berkeyfilters.com/filtervspurifier.htm  101,31,5,404
+www.berkeyfilters.com/berkeysport.htm  38,32,6,404
+www.berkeyfilters.com/index.html  19,34,12,404
+www.berkeyfilters.com/watertest.htm  18,31,5,404
+www.berkeyfilters.com/berkeypf2.htm  17,33,9,404
+www.berkeyfilters.com/berkeymodels.htm  15,34,11,404
+www.berkeyfilters.com/black-berkey.htm  10,31,4,404
+www.berkeyfilters.com/berkey-learning-center.htm  9,31,5,404
+www.berkeyfilters.com/waterfiltercomparison.htm  8,31,4,404
+www.berkeyfilters.com/berkey-water-filters/replacement-filters/black-berkey/  7,30,3,404
+www.berkeyfilters.com/berkey-answers/berkey-water-filter-faq/berkey-water-filter-scam/  5,31,4,404
+www.berkeyfilters.com/berkey-water-filters/specialty-filters/fluoride/  4,29,2,404
+www.berkeyfilters.com/berkey-water-filters/black-berkey-replacement-filters-sale.html  3,28,1,404
+www.berkeyfilters.com/berkey-water-filters/royal-sale.html  3,28,1,404
+www.berkeyfilters.com/waterfilters/travel-berkey.htm  3,29,2,404
+www.berkeyfilters.com/berkey-water-filters/specialty-filters/sport-berkey/  2,29,2,404
+www.berkeyfilters.com/priming-black-filters.htm  2,29,2,404
+www.berkeyfilters.com/berkey.htm  2,29,2,404
 
 --Page Links I Haven't Redirected Yet--
-www.berkeyfilters.com/berkey-water-filters/royal-sale.html,,3,28,1,404
-www.berkeyfilters.com/waterfilters/travel-berkey.htm,,3,29,2,404
-www.berkeyfilters.com/berkey-water-filters/specialty-filters/sport-berkey/,,2,29,2,404
-www.berkeyfilters.com/priming-black-filters.htm,,2,29,2,404
-www.berkeyfilters.com/berkey.htm,,2,29,2,404
+None!  I'm done!  Woo
